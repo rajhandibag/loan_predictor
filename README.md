@@ -1,2 +1,2 @@
 # loan_predictor
-c
+classification problem solve by feed forward
