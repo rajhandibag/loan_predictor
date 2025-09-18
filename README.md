@@ -16,6 +16,7 @@ This project predicts whether a loan application should be approved or rejected 
 
 
 🛠️ Tech Stack
+
 1.Programming Language: Python 
 
 2.Libraries/Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Matplotlib/Seaborn
