@@ -4,6 +4,7 @@ This project predicts whether a loan application should be approved or rejected 
 
 
 📌 Key Features
+
 ✅ End-to-end ML/DL pipeline (data preprocessing, feature engineering, model building)
 
 ✅ Real-time loan approval predictions
